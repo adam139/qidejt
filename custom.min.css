@@ -1,9 +1,7 @@
+.address-bar {font-size:16px;margin-top:27px}
 .navbar-brand {
-    float: left;
-    font-size: 18px;
     height: 32px;
-    line-height: 20px;
-    margin-top: 2px;
+    margin-top: 8px;
     padding: 0 24px;
 }
 .navbar-brand img{padding:0}
@@ -35,12 +33,12 @@
 .comments{height:70px}.border{border:1px solid #dedede}
 .border-bottom{border-bottom:1px solid #dedede;height:30px;font-size:120%;font-weight:400}
 .right-bottom{border-right:1px solid #dedede}
-.template-index-html .row{margin-bottom:6px}
+.container-header{margin-top:6px}
+.container-header .row{margin-bottom:6px}
 .text-left td{text-align:left}.text-left .text-center{text-align:center}
 .table .nopadding{padding:0}
 .theader td{background-color:#ededed;height:25px;font-weight:700}
 .title a{text-decoration:none}
-.container-header{padding:6px 0}
 h1{font-size:24px}h2{font-size:22px}h3{font-size:19px}
 h1,h2,h3{line-height:1.1;text-align:center}
 .navbar{margin-bottom:10px}
@@ -80,3 +78,4 @@ p {text-indent:2em;}
 .bodysign {margin:15px 25px;text-align:right;}
 .footer .sign{font-size:90%;text-indent:0}
 #portal-footer-wrapper .pull-right{border-bottom:none}
+
